@@ -67,7 +67,7 @@
 .even-project-layout {
   margin: 30vh 0 30vh 10vw;
   display: grid;
-  grid-template-columns: 2fr 3fr;
+  grid-template-columns: 3fr 2fr;
   grid-column-gap: 10vw;
   text-align: right;
 }
